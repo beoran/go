@@ -1,0 +1,6 @@
+{
+  "name": "Gotwo",
+  "tagline": "The GoTwo programming language. A friendly parody fork of the Go language focused on implementing all practically possible requested \"go2\" features. Pull requests welcome!",
+  "body": "### The GoTwo Programming Language.\r\nGoTwo is a friendly parody fork of the Go programming language, focused on implementing all sorts of wild and whacky features that do not belong into Go. Unlike Go, it comes with a guarantee of _instability_: every release is gauarnteed to break existing code, and GoTwo may not be compatible with mainline Go at all in the future, although the essential features of the Go language will be kept. \r\n\r\nIt goes without saying that GoTwo is not intended for serious use, rather this project is supposed to be a playground for ideas that the Go language _cannot_ or _should not_ implement.  \r\n\r\n### Contributions\r\nMake a pull request with the feature you'd like to implement, preferably including tests and some specification. If it actually works, and doesn't break too many other things, I'll probably merge the request. Probably.\r\n\r\n### Credits\r\nThe original Go language developers. You Rock!\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
